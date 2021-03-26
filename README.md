@@ -2,7 +2,7 @@
 ## Last Updated: ``03/26/2021`` (Anniversary Update)
 Note: This is derived from Stormerpro's Item Description Mod, [you can find their guide here!](https://steamcommunity.com/sharedfiles/filedetails/?id=1785888599)
 
-This is a very simple language edit for Risk of Rain 2 that adds a more descriptive item description when picking up an item. This essentially copies the item descriptions from the logbook entries since those have been detailed and color coded already. A few items such have also been given an updated description to further clarify what an item does.
+This is a very simple language edit for Risk of Rain 2 that adds a more descriptive item description when picking up an item. This essentially copies the item descriptions from the logbook entries since those have been detailed and color coded already. A few items have also been given an updated description to further clarify what an item does.
 
 ## Installing
 You can download this entire repository as a .zip file by clicking on the green "Code" button then clicking "Download ZIP", [or you can directly download it from here](https://github.com/Niflheimrx/ror2-detailed-item-descriptions/archive/refs/heads/main.zip)
