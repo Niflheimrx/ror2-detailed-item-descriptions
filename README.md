@@ -1,5 +1,5 @@
 # Detailed Item Descriptions for Risk of Rain 2
-## Last Updated: ``03/26/2021`` (Anniversary Update)
+## Last Updated: ``05/01/2021`` (ver 1.1.1.4)
 Note: This is derived from Stormerpro's Item Description Mod, [you can find their guide here!](https://steamcommunity.com/sharedfiles/filedetails/?id=1785888599)
 
 This is a very simple language edit for Risk of Rain 2 that adds a more descriptive item description when picking up an item. This essentially copies the item descriptions from the logbook entries since those have been detailed and color coded already. A few items have also been given an updated description to further clarify what an item does.
